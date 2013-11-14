@@ -36,7 +36,12 @@ MASH_OPTIONS = {
     'Ke$ha',
     'Bill Nye',
     'Neil DeGrasse Tyson',
-    'Wee Baby Ragnar'
+    'Wee Baby Ragnar',
+    'The Macho Man Randy Savage',
+    'Steven Chu',
+    'Paul Ginsparg',
+    'Paul McEuen (for scifi)',
+    'Paul McEuen (for science)'
     ],
 'Career': [
     'Tenured MIT Professor',
@@ -61,7 +66,13 @@ MASH_OPTIONS = {
     'Mosh Pitter',
     'Professional Bullshitter',
     'Freelance Equation Solver',
-    'Katy Perry Groupie'
+    'Katy Perry Groupie',
+    'Middle School Lunchlady',
+    'Cartographer to the stars',
+    'Dirt counter',
+    'Rodeo Clown',
+    'Circus Freak',
+    'Pope'
     ],
 'Publications': [
     '9000+',
